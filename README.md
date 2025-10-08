@@ -37,12 +37,12 @@ The following Python libraries were utilized for the analysis:
 ## Analyze
 
 ### Documentation
-* The entire analysis and model implementations are documented in the [Jupyter_Notebook.ipynb](https://github.com/shandilyarnav/Case_Study_Salifort_Motors/blob/main/Jupyter_Notebook.ipynb).
+* The entire analysis and model implementations are documented in the [Jupyter_Notebook.ipynb](https://github.com/amitbiswas1902/Case_Study_Salifort_Motors/blob/main/Jupyter_Notebook.ipynb).
 
 ## Share
 
 ### Executive Summary
-* The [Executive_Summary.pdf](https://github.com/shandilyarnav/Case_Study_Salifort_Motors/blob/main/Executive_Summary.pdf) contains a comprehensive summary of the response, impact and key insights gained by the analysis.
+* The [Executive_Summary.pdf](https://github.com/amitbiswas1902/Case_Study_Salifort_Motors/blob/main/Executive_Summary.pdf) contains a comprehensive summary of the response, impact and key insights gained by the analysis.
 
 ## Act
 
